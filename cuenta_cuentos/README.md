@@ -1,4 +1,4 @@
-### Cuneta cuentos en python
+### Cuenta cuentos en python
 Proyecto sencillo que genera una historia con personajes, acciones y lugares diferentes 
 cada vez que se manda a llamar
 
