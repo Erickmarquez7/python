@@ -1,7 +1,8 @@
 import random
 
-
 def adivina(x):
+    """Función principal que genera un numero al azar para que el usario
+    adivine dicho numero"""
     azar = random.randint(1, x)
     usuario = 0
 

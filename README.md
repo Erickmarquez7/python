@@ -9,4 +9,5 @@ Algo que es tan simple que es sencillo y al revés.
 ### Pequeños proyectos en Python
 1. Cuenta cuentos: Crea un cuento al azar
 2. Adivina numero: El usuario adivina un numero al azar
-3.
+3. Frecuencias: Cuenta la frecuencia de caracteres de un archivo de texto
+4. 

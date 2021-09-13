@@ -11,7 +11,7 @@ personas = ['Juan', 'Pepe', 'him', 'her', 'the witch', 'the man', 'the woman', '
 sustantivos = ['game', 'book', 'glasses', 'scissor', 'bed', 'rope']
 
 #elige al azar un elemento de las posibilidades, singular
-#Son funciones ya que esperamos uno nuevo cada vez que se mande a llamar
+#Son funciones ya que esperamos uno nuevo elemento cada vez que se mande a llamar
 def accion():
     return random.choice(acciones)
 
