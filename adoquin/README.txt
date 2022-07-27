@@ -1,6 +1,3 @@
-Bernal Márquez Erick    317042522
-Analaisis de algoritmos 21/marzo/2022
-
 Para la correcta ejecución del programa es necesario tener instalada la biblioteca numpy de python ya que con esta trabajamos a las subcuadriculas al partirlas
 
 Dependerá de cada sistema operativo el cómo instalarlo

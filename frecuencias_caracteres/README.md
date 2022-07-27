@@ -5,5 +5,4 @@ Para ejecutarlo solo es necesario utilizar el interpretador de python
 
 ```
 python3 frecuencia.py
-
 ```
