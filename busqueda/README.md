@@ -26,15 +26,21 @@ python3 main.py 10
 Y nos puede dar como salida
 
 > El arreglo es:
+
 > [0, 1, 1, 2, 3, 4, 4, 5, 5, 5]
+
 > El numero a buscar es: 4
+
 > El indice del elemento es: 5
 
 O bien
 
 > El arreglo es:
+
 > [0, 0, 0, 0, 1, 2, 3, 4, 5, 5]
+
 > El numero a buscar es: 7
+
 > El indice del elemento es: -1
 
 Pues recordemos que los elementos del arreglo así como el elemento a buscar z se eligen aleatoriamente.
