@@ -1,1 +1,2 @@
-Nada mas que agregar, solo un objeto para practicar
+Carpeta específica para práticar los objetos en python
+Mis primeros objetos en python
