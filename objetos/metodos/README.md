@@ -1,0 +1,1 @@
+Entender porqué y qué hace el parametro self de los objetos
