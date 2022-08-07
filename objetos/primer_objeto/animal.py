@@ -4,6 +4,7 @@ class Animal:
 
     def grupo(self):
         #debemos de poner self para que entienda que es la varibale del mismo
+        #variable de clase
         self.x = self.x+1
         print('Hasta ahora: ', self.x)
 
