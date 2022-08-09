@@ -1,0 +1,1 @@
+Carpeta para entender la herencia en python
