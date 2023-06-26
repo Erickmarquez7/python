@@ -1,1 +1,1 @@
-Carpeta específica para práticar los objetos en python
+Carpeta específica para practicar los objetos en python

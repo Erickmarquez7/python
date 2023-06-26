@@ -1,6 +1,14 @@
 # !/ cuentos.py
 # encoding: latin1
 
+"""Cuenta cuentos en python
+Genera una historia con personajes, acciones y lugares diferentes 
+cada vez que se manda a llamar
+Para ejecutarlo solo es necesario utilizar el interpretador de python
+
+python3 cuentos.py
+"""
+
 #Está en inglés porque es más fácil conjugar verbos, y poner lugares
 import random
 
