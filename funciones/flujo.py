@@ -88,8 +88,8 @@ while(mul <= 10):
     mul=mul+1
 
 # Pide al usuario dos numeros y muestra el rango de numeros entre ambas cifras
-numero1 = int(input('Primero numero: '))
-numero2 = int(input('Segundo numero: '))
+numero1 = int(input('Primer numero: '))
+numero2 = int(input('Segund numero: '))
 
 #+1 para incluir al segundo numero
 for i in range(numero1, numero2+1):
