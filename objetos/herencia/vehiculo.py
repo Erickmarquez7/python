@@ -49,7 +49,7 @@ carro.comprueba()
 #Lo creamos con clase padre
 carro2 = Vehiculo('Verde')
 #carro2.comprueba() #No jala porque Vehiculo no tiene el metodo 'comprueba'
-carro2.enciende() #en java si jalaria
+carro2.enciende() #en java si jalaria pk escribimos la clase padre y el tipo hijo
 #carro2.comprueba()
 #Entonces veamos de que tipo son cada uno
 

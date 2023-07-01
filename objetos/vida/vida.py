@@ -20,7 +20,6 @@ neptuno = Planeta('Neptuno')
 pluton = Planeta('pluton')
 
 #urano = 1
-
 urano.total_planetas()
 
 #Para hacer static lo hacemos de la siguiente manera
@@ -31,6 +30,7 @@ class Animal:
     def __init__(self, especie):
         self.especie = especie
         #Ponemos el nombre de la clase para hacerlo estatico
+        #Tiene sentido que la palabra sea la misma clase Animal
         Animal.ult = especie
         #De hecho tiene sentido si lo vemos como vemos a self
         Animal.contador = self.contador+1
@@ -55,6 +55,8 @@ perro.ult_g()
 mapache = Animal('mapache')
 mapache.contador_g()
 mapache.ult_g()
+
+print('------------------------------')
 
 #Volvemos con el gato, nos dará el mismo resultado que mapache
 #porque son de clase.

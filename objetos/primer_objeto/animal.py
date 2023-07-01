@@ -9,7 +9,7 @@ class Animal:
         print('Hasta ahora: ', self.x)
 
     def metodo():
-        #Este método no funciona jsjs
+        #Este método no funciona jsjs, por el self
         print('ah caray')
 
 an = Animal()
